@@ -27,14 +27,6 @@ class _WebViewState extends State<WebView> {
         webviewReference.onStateChanged.listen((WebViewStateChanged state) {
       switch (state.type) {
         case WebViewState.startLoad:
-          // if (_isToMain(state.url) && !exiting) {
-          //   if (widget.backForbid) {
-          //     webviewReference.launch(url);
-          //   } else {
-          //     Navigator.pop(context);
-          //     exiting = true;
-          //   }
-          // }
           break;
         default:
           break;
