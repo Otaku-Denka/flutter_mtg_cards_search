@@ -78,8 +78,6 @@ class _MyHomePageState extends State<MyHomePage> {
       setState(() {
         isFetching = true;
       });
-      //https://api.scryfall.com/cards/search?format=json&include_extras=false&include_multilingual=true&order=name&page=3&q=a+lang%3Aany&unique=cards
-      //"$fetchUrl$text+lang%3Aany"
       ScryfallSearchDao.fetch("$fetchUrl$text+lang%3Aany", text).then((ScryfallSearchModel res) {
         if (res.data.length > 0 && res.keyword == keyword) {
           setState(() {
