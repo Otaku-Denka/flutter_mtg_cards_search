@@ -1,0 +1,31 @@
+{
+  "object": "list",
+  "total_cards": 23,
+  "keyword": "keyword",
+  "has_more": false,
+  "next_page": "next_page",
+  "ScryfallSearchData": [{
+    "name": "Liliana, Heretical Healer // Liliana, Defiant Necromancer",
+    "uri": "https://api.scryfall.com/cards/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54",
+    "scryfall_uri": "https://scryfall.com/card/ori/106/liliana-heretical-healer-liliana-defiant-necromancer?utm_source=api",
+    "lang": "en",
+    "card_faces": [{
+      "name": "Liliana, Heretical Healer",
+      "oracle_text": "Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.",
+      "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824",
+        "normal": "https://img.scryfall.com/cards/normal/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824",
+        "large": "https://img.scryfall.com/cards/large/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824",
+        "png": "https://img.scryfall.com/cards/png/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.png?1562033824",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824"
+      }
+    }],
+    "prices": {
+      "usd": "12.78",
+      "usd_foil": "23.06",
+      "eur": "8.19",
+      "tix": "0.77"
+    }
+  }]
+}
